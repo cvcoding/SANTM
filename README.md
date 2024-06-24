@@ -31,6 +31,3 @@ Contributions
 Contributions are welcome! Please feel free to open issues, submit pull requests, or contact the authors for more information.
 
 The implementation of recurrent networks, encompassing Skip LSTM, Dilated LSTM, DRRLSTM, and Neural Turing Machines, has been executed utilizing Tensorflow. Meanwhile, the Transformer and Mamba models have been realized in Pytorch.
-
-During training, the models were executed on a single NVIDIA RTX 3060 GPU.
-
